@@ -11,6 +11,7 @@ include 'hibernate-ehcache'
 include 'hibernate-infinispan'
 include 'documentation'
 include 'release'
+include 'release'
 
 
 rootProject.children.each { project ->
